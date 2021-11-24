@@ -6,7 +6,7 @@ In this exercise, we have to validate a CNPJ, if this is only number and if this
 
 To run the code, i recommend using the ItelliJ from JetBrains, but you can use any program that support Java language.
 
-![Terminal](/Estagio/https://github.com/fehnicchio/Estagio/blob/main/cnpj-terminal.jpg)
+![Terminal](/main/cnpj-terminal.jpeg)
 
 After run the project, it will ask you for a CNPJ, than press ENTER.
 
