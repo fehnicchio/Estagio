@@ -13,7 +13,9 @@ You will have JDK installed in you machine
 
 
 - After running, it will print if the CNPJ is correct (True) or not (False).
-![Saida](/cnpj-saida.png)
+![SaidaCerta](/cnpj-saida.png)
+![SaidaErrada](/cnpj-saida-false.png)
+
 
 ## Inside the code:
 
