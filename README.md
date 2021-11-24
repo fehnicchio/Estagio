@@ -23,3 +23,25 @@ When you open the code, you will that have two Class of Java(Main and CNPJ), in 
 ![Main](/cnpj-main.png)
 
 
+# Exercise 7.
+
+in this exercise, i have to draw or to do a draft of a Order System with the Client, Product and Order class.
+
+## Client:
+
+
+- In the Client class, it will have the information about the client, like name, cpf, adress, email and phone number. The client class implement the Order class.
+
+
+## Product:
+
+- In this class, it will have all the information about the product, how much we have in inventory, the price we sell and the cost.
+
+## Order:
+
+- Here, we list all the product of one order, we have a list of order and each order there is a list of product.
+
+## Shop:
+In Shop, we have all the information about the shop, like address, phone number and CNPJ.
+
+![Diagrama](/UML-exercise7.png)
